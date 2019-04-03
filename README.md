@@ -6,5 +6,4 @@ Open terminal and navigate to the project folder.
 
 $ npm run serve
 
-
-Project is visible: localhost:8080 (by default)
+Open browser, navigate to: localhost:8080 (by default)
